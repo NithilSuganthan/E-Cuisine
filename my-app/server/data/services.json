@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "servicename": "Homely Meals",
+    "description": "Daily fresh South Indian breakfast, lunch and dinner made by local home cooks.",
+    "city": "Chennai",
+    "cuisinetype": "South Indian",
+    "rating": 4.8,
+    "pricing": { "monthly": 3500, "yearly": 38000 },
+    "deliveryTimes": { "morning": "7:00 - 9:00", "lunch": "12:00 - 13:30", "dinner": "19:00 - 20:30" },
+    "menu": {
+      "morning": [ "Idli (2) + Sambar", "Dosa + Coconut Chutney", "Pongal" ],
+      "lunch": [ "Rice, Rasam, Sambar, 2 Veg Curries, Curd", "Buttermilk", "Salad" ],
+      "dinner": [ "Chapati(2) + Dal, Veg Curry, Salad", "Rasam", "Pickle" ]
+    },
+    "contact": { "phone": "+91-9876543210", "email": "homely@meals.example" }
+  },
+  {
+    "id": "2",
+    "servicename": "Campus Kitchen",
+    "description": "Affordable balanced meals tailored for PG students — focused on nutrition and on-time delivery.",
+    "city": "Bengaluru",
+    "cuisinetype": "Mixed",
+    "rating": 4.6,
+    "pricing": { "monthly": 2999, "yearly": 33000 },
+    "deliveryTimes": { "morning": "7:30 - 8:30", "lunch": "12:30 - 13:30", "dinner": "20:00 - 21:00" },
+    "menu": {
+      "morning": [ "Poha", "Egg Omelette + Toast", "Paratha with Aloo" ],
+      "lunch": [ "Veg Thali with Rice, Dal, 2 Veg, Salad", "Curd" ],
+      "dinner": [ "Paneer Butter Masala + Roti", "Jeera Rice", "Dessert (Kheer)" ]
+    },
+    "contact": { "phone": "+91-9123456780", "email": "hello@campuskitchen.example" }
+  },
+  {
+    "id": "3",
+    "servicename": "NorthFlavors",
+    "description": "Hearty North Indian menus with rich gravies and daily specials — ideal for students missing home food.",
+    "city": "Delhi",
+    "cuisinetype": "North Indian",
+    "rating": 4.7,
+    "pricing": { "monthly": 4200, "yearly": 45000 },
+    "deliveryTimes": { "morning": "8:00 - 9:00", "lunch": "13:00 - 14:00", "dinner": "20:00 - 21:30" },
+    "menu": {
+      "morning": [ "Aloo Paratha + Curd", "Chole Bhature (weekends)", "Sooji Upma" ],
+      "lunch": [ "Dal Makhani, Jeera Rice, Mixed Veg, Raita" ],
+      "dinner": [ "Butter Chicken + Naan", "Dal Tadka + Rice" ]
+    },
+    "contact": { "phone": "+91-9012345678", "email": "info@northflavors.example" }
+  },
+  {
+    "id": "4",
+    "servicename": "GreenBite Meals",
+    "description": "Vegetarian-first meal plans with healthy portions and timely doorstep delivery.",
+    "city": "Pune",
+    "cuisinetype": "Vegetarian",
+    "rating": 4.5,
+    "pricing": { "monthly": 3200, "yearly": 34500 },
+    "deliveryTimes": { "morning": "7:00 - 8:00", "lunch": "12:00 - 13:00", "dinner": "19:30 - 20:30" },
+    "menu": {
+      "morning": [ "Mixed Fruit Yogurt", "Vegetable Sandwich", "Idli" ],
+      "lunch": [ "Brown Rice, Rajma, Seasonal Veg, Salad" ],
+      "dinner": [ "Roti, Paneer Curry, Soup" ]
+    },
+    "contact": { "phone": "+91-9765432100", "email": "hello@greenbite.example" }
+  },
+  {
+    "id": "5",
+    "servicename": "Express Tiffins",
+    "description": "Quick, tasty tiffins optimized for students with tight schedules — reliable morning & evening deliveries.",
+    "city": "Hyderabad",
+    "cuisinetype": "Hyderabadi",
+    "rating": 4.4,
+    "pricing": { "monthly": 2800, "yearly": 30000 },
+    "deliveryTimes": { "morning": "7:15 - 8:15", "lunch": "13:00 - 14:00", "dinner": "20:00 - 21:00" },
+    "menu": {
+      "morning": [ "Semiya Upma", "Masala Omelette", "Mini Idli" ],
+      "lunch": [ "Biryani (veg/non-veg options), Raita, Salad" ],
+      "dinner": [ "Keema (veg option available) + Chapati", "Dal" ]
+    },
+    "contact": { "phone": "+91-9887766554", "email": "contact@expresstiffins.example" }
+  }
+]
